@@ -23,17 +23,12 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Full Publishing + Membership Platforms
-- **[Ghost](https://github.com/TryGhost/Ghost)** — The strongest open-source option for modern publishers. Native memberships, paid subscriptions (via Stripe), content gating, newsletters, analytics, and a clean publishing experience. Fully open source (MIT) with optional official hosting. Excellent for running a complete paid publication.
-- **[Leaky Paywall](https://leakypaywall.com/)** — Open-source / WordPress-native subscription and paywall system designed specifically for publishers. Uses WordPress users and content rules so you fully own the data and experience.
-
-### WordPress Membership & Paywall Plugins
-- **[Paid Memberships Pro](https://github.com/strangerstudios/paid-memberships-pro)** — Fully open-source (GPL) membership plugin for WordPress. Restrict content by membership level, handle recurring subscriptions (Stripe, PayPal, etc.), and manage members. Widely used for premium content sites.
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![Ghost Stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers) — The strongest open-source option for modern publishers. Native memberships, paid subscriptions (via Stripe), content gating, newsletters, analytics, and a clean publishing experience. Fully open source (MIT) with optional official hosting. Excellent for running a complete paid publication.
+- **[Lago](https://github.com/getlago/lago)** [![Lago Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering, usage-based billing, and subscription management system. Useful when you need flexible pricing models beyond simple flat subscriptions.
+- **[Paid Memberships Pro](https://github.com/strangerstudios/paid-memberships-pro)** [![Paid Memberships Pro Stars](https://img.shields.io/github/stars/strangerstudios/paid-memberships-pro?style=social&color=white)](https://github.com/strangerstudios/paid-memberships-pro/stargazers) — Fully open-source (GPL) membership plugin for WordPress. Restrict content by membership level, handle recurring subscriptions (Stripe, PayPal, etc.), and manage members. Widely used for premium content sites.
+- **[Leaky Paywall](https://github.com/zeen101/leaky-paywall)** [![Leaky Paywall Stars](https://img.shields.io/github/stars/zeen101/leaky-paywall?style=social&color=white)](https://github.com/zeen101/leaky-paywall/stargazers) — Open-source / WordPress-native subscription and paywall system designed specifically for publishers. Uses WordPress users and content rules so you fully own the data and experience.
+- **[MemberMatters](https://github.com/membermatters/MemberMatters)** [![MemberMatters Stars](https://img.shields.io/github/stars/membermatters/MemberMatters?style=social&color=white)](https://github.com/membermatters/MemberMatters/stargazers) — Open-source membership, billing, and access control portal (originally focused on makerspaces and community groups, adaptable for broader membership use cases).
 - Other mature WordPress membership plugins (many are freemium or open-core) that support content restriction, drip content, and subscription billing.
-
-### Billing, Metering & Supporting Tools
-- **[Lago](https://github.com/getlago/lago)** — Open-source metering, usage-based billing, and subscription management system. Useful when you need flexible pricing models beyond simple flat subscriptions.
-- **[MemberMatters](https://github.com/membermatters/MemberMatters)** — Open-source membership, billing, and access control portal (originally focused on makerspaces and community groups, adaptable for broader membership use cases).
 - Emerging micropayment and open protocols (e.g., Paperwall) that explore alternative monetization models outside traditional subscription paywalls.
 
 ### Typical Open-Source Approach
