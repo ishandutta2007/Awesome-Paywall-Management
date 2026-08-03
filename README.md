@@ -8,14 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Piano](https://piano.io/)** — Leading enterprise platform for paywalls, subscriptions, audience development, and data-driven offers.
-- **[Zephr by Zuora](https://www.zuora.com/zephr/)** — Decisioning and paywall platform focused on personalized access and subscription journeys.
-- **[LaterPay](https://www.laterpay.net/)** — Flexible payment and access solution supporting micropayments and subscriptions.
-- **[Poool](https://poool.fr/)** — Paywall and engagement platform popular with European publishers.
-- **[Pico](https://pico.tools/)** — Membership and contribution platform for independent publishers.
-- **[MemberGate](https://www.membergate.com/)** and similar legacy membership systems — Tools for restricting content access.
-- **[Leaky Paywall](https://leakypaywall.com/)** — WordPress-native subscription and paywall platform built for publishers (has strong open-source roots and self-hosted options).
-- **[Flip-Pay](https://flip-pay.com/)**, **[Wallkit](https://wallkit.net/)**, **[Subscription Genius](https://www.subscriptiongenius.com/)** — Specialized paywall, metering, and subscription management solutions used by digital publishers.
+| Platform | Description | Pricing | Free Tier & Limits |
+| :--- | :--- | :--- | :--- |
+| **[Piano](https://piano.io/)** | Leading enterprise platform for paywalls, subscriptions, audience development, and data-driven offers. | Enterprise (Custom Quote) | None |
+| **[Zephr by Zuora](https://www.zuora.com/zephr/)** | Decisioning and paywall platform focused on personalized access and subscription journeys. | Enterprise (Custom Quote) | None |
+| **[LaterPay](https://www.laterpay.net/)** | Flexible payment and access solution supporting micropayments and subscriptions. | Custom / Transaction-based fees | None |
+| **[Poool](https://poool.fr/)** | Paywall and engagement platform popular with European publishers. | Enterprise (Custom Quote) | None |
+| **[Pico](https://pico.tools/)** | Membership and contribution platform for independent publishers. | Starts at $29/mo (Pro: $29/mo, Premium: $49/mo, Business: $129/mo) | Yes (Free basic tier with scale limits) |
+| **[MemberGate](https://www.membergate.com/)** | Legacy membership systems and tools for restricting content access. | Starts at $97/mo | None |
+| **[Leaky Paywall](https://leakypaywall.com/)** | WordPress-native subscription and paywall platform built for publishers. | "All Access" starts at $299 for 1 site | Yes (Free basic self-hosted WordPress plugin) |
+| **[Flip-Pay](https://flip-pay.com/)** | Specialized paywall, metering, and subscription management solutions. | Enterprise (Custom Quote) | None |
+| **[Wallkit](https://wallkit.net/)** | Paywall and membership tools scaled by number of paid subscribers. | Starts at $799/mo (0–1k subscribers) | None |
+| **[Subscription Genius](https://www.subscriptiongenius.com/)** | Paywall, metering, and subscription management solutions. | Starts at $99/mo (Standard: $99/mo, Plus: $199/mo, Premium: $399/mo) | None |
 
 ## 🔓 Open-Source Software
 
