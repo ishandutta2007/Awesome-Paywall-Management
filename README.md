@@ -1,5 +1,7 @@
 # Awesome-Paywall-Management
 
+![Awesome Paywall Management Banner](assets/banner.svg)
+
 ## Similar Projects to Paywall Management Platforms
 
 **Paywall Management Platforms** help publishers and content sites control access to premium content through metered paywalls, hard paywalls, subscriptions, memberships, and dynamic offers. Leading commercial tools include Piano, Zephr by Zuora, LaterPay, Poool, Pico, MemberGate, Leaky Paywall, Flip-Pay, Wallkit, and Subscription Genius.
